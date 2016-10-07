@@ -1,0 +1,4 @@
+[submodule "builder/frameworks/mbed"]
+	path = builder/frameworks/mbed
+	url = https://github.com/peterhinson/builder-framework-mbed.git
+	branch = feature/nrf52
